@@ -6,10 +6,10 @@ This project performs an in-depth analysis of McDonald's menu items, focusing on
 
 - **mcdonals.db**: SQLite database containing detailed nutritional information about McDonald's menu items.
 - **menu.csv**: CSV file containing the raw data about the menu items (including nutritional data such as sodium, protein, fat, and sugar).
-- **mcdonalds_sodium_analysis.ipynb**: Jupyter notebook that contains the full analysis of sodium content in McDonald's menu items. It includes data cleaning, visualizations, and insights.
-- **jointplot_protein_totalfat.png**: PNG file showing a joint plot visualizing the relationship between protein and total fat content in McDonald's menu items.
-- **boxplot_sugar.png**: PNG file showing a box plot of the sugar content across different McDonald's menu categories.
-- **swarmplot_sodium.png**: PNG file showing a swarm plot of sodium content across McDonald's menu categories.
+- **analysis/mcdonalds_sodium_analysis.ipynb**: Jupyter notebook that contains the full analysis of sodium content in McDonald's menu items. It includes data cleaning, visualizations, and insights.
+- **images/jointplot_protein_totalfat.png**: PNG file showing a joint plot visualizing the relationship between protein and total fat content in McDonald's menu items.
+- **images/boxplot_sugar.png**: PNG file showing a box plot of the sugar content across different McDonald's menu categories.
+- **images/swarmplot_sodium.png**: PNG file showing a swarm plot of sodium content across McDonald's menu categories.
 
 ## Project Overview
 
