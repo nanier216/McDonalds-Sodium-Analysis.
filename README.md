@@ -1,6 +1,3 @@
-Here is the full `README.md` with all the information included:
-
-```markdown
 # McDonald's Nutritional Analysis
 
 This project performs an in-depth analysis of McDonald's menu items, focusing on sodium content and other nutritional aspects like protein, total fat, and sugar. The analysis is based on a dataset containing nutritional information for a variety of McDonald's products.
@@ -62,6 +59,3 @@ This project provides a comprehensive look at the nutritional content of McDonal
 ---
 
 Feel free to open an issue or submit a pull request if you have suggestions or improvements to this project.
-```
-
-This `README.md` file is now complete and ready for you to copy directly into your GitHub repository. It provides a clear explanation of the project, file contents, setup instructions, visualizations, and insights derived from the analysis.
